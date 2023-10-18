@@ -60,7 +60,7 @@
             ]
         },
         {
-            "image" : "images/projects/cmr.jpg",
+            "image" : "images/projects/cmr.jpeg",
             "title": "Fast Acquisition of Dynamic MRI",
             "bodyText": "Developed **MATLAB script** that compiles Cartesian sampling methods to speed up CMR acquisition. Presented at Ohio State University Autumn Research Festival 2021 and EHIRS Symposium 2022.",
             "links": [
