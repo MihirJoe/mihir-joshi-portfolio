@@ -1,0 +1,118 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/BUDI.png",
+            "title": "Biofeedback Upper-limb Device for Impairment (BUDI)",
+            "bodyText": "A **mobile platform** for remote pediatric cerebral palsy (CP) rehabilitation.\n Implemented **real-time biofeedback** with Apple Watch to easly visualize and track therapy sessions. \n **Launched public beta test** to obtain feedback from individuals with CP.\n\n **Funded by the FDA Pediatric Device Consortium**",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/cs342-budi/BudiApp"
+                },
+                {
+                    "text": "Product Website",
+                    "href": "https://budiapp.webflow.io/"
+                },
+                {
+                    "text": "Stanford News",
+                    "href": "https://news.stanford.edu/report/2022/07/22/digital-solution-kids-cerebral-palsy/"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "SwiftUI",
+                "MVVM",
+                "Apple Health",
+                "Google Cloud",
+                "Real-time biofeedback",
+                "Remote patient monitoring",
+                "Stanford Biodesign"
+            ]
+        },
+        {
+            "image" : "images/projects/MyOIT_website_banner.png",
+            "title": "MyOIT",
+            "bodyText": "A **digital health** application focused on helping patients undergoing oral food allergy immunotherapy **track their adherence and symptoms**. \n  Collaborating with clinicians at the Sean N. Parker Center at Stanford to **pilot an IRB-approved research study**. Public version has 120+ users. ",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": "https://www.youtube.com/shorts/V9xJjgGBHYE"
+                },
+                {
+                    "text": "Download v1.0",
+                    "href": "https://apps.apple.com/la/app/myoit/id1544631470"
+                },
+                {
+                    "text": "Research Symposium",
+                    "href": "https://youtu.be/LRkviVe_nvQ?t=1833"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "SwiftUI",
+                "MVVM",
+                "Google Cloud",
+                "JavaScript",
+                "IRB",
+                "Human Subjects Research",
+                "Health Data Privacy & Security",
+                "Stanford Medicine"
+            ]
+        },
+        {
+            "image" : "images/projects/cmr.jpeg",
+            "title": "Fast Acquisition of Dynamic MRI",
+            "bodyText": "Developed **MATLAB script** that compiles Cartesian sampling methods to speed up CMR acquisition. Presented at Ohio State University Autumn Research Festival 2021 and EHIRS Symposium 2022.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MihirJoe/cmr-sampling"
+                },
+                {
+                    "text": "Publication",
+                    "href": "https://arxiv.org/abs/2206.03630"
+                },
+                {
+                    "text": "Presentation",
+                    "href": "https://u.osu.edu/2021autumnfestival/student-presentations/college-of-engineering/mihir-joshi-biomedical-engineering/"
+                }
+            ],
+            "tags" : [
+                "MATLAB",
+                "Cardiovascular MRI",
+                "k-space",
+                "Pseudo-random sampling"
+            ]
+        },
+        {
+            "image" : "images/projects/DermAI.png",
+            "title": "DermAI",
+            "bodyText": "Built a mobile app that **predicts type of skin cancer** from an image based on 7 common malignancies.\nTrained a **multi-class skin cancer classifier** with 85% accuracy. Obtained **1st place** in HackAI, Ohio State University's premiere AI hackathon.",
+            "links": [
+                {
+                    "text": "Demo",
+                    "href": "https://drive.google.com/file/d/1Hbct1nIT758jjP3Py3yMBsuvlKo_vhVj/view?usp=share_link"
+                },
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/MihirJoe/DermAI"
+                },
+                {
+                    "text": "HackAI",
+                    "href": "https://www.osuaiclub.com/recap.html"
+                }
+
+            ],
+            "tags" : [
+                "Python",
+                "PyTorch",
+                "Deep learning",
+                "Convolutional neural networks",
+                "CoreML",
+                "SwiftUI",
+                "Skin cancer",
+                "Hackathon"
+            ]
+        }
+    ]
+}
